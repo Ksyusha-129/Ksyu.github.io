@@ -1,20 +1,23 @@
-
 <html>
 <head>
-         <title>Главная страница</title>
+<title> Сайт "Хобби"
+</title>
 </head>
 <body bgcolor="#FFDEAD">
-<div align="center">
-<h1 style="color: #ffffff;"> Моё Хобби </h1>
-<a class="bot8" href="main.html"> Главная </a>
-<a class="bot8" href="contacts.html"> Контакты </a>
-</div>
-<hr>
-<h2 style="color: #ffffff; "> О нас </h2› 
-<img height="200px" src="game.jpg">
-<p style="color: #ffffff; style="font-style: 20px;"> Хобби - это то, что тебя вдохновляет, от чего ты получаешь истинное удовольствие.
-Именно для этого мы создали сайт, который вполне может предоставить людям такую возможность. </р>
-<h2 style="color: #ffffff;"> Про, что мы рассказываем? </h2>
-<p style="color: #ffffff; style="font-style: 20px;"> Сайт создан для того, чтобы каждый человек смог найти себе увлечение по своим интересам. </р>
-</body>
-</html>
+<h1> 
+<b> <center>Мое Хобби <hr> </center>
+
+<h2>
+<b> <center> Главная  </center>
+
+<p>
+<img src="img1.jpg" width="400" height="300">
+<br>
+<font size="5"><b>Хобби</b> - это то, что тебя вдохновляет, от чего ты получаешь истинное удовольствие.
+Именно для этого мы создали сайт, который вполне может предоставить людям такую возможность.
+<br>
+Про, что мы рассказываем?
+<br>Сайт создан для того, чтобы каждый человек смог найти себе увлечение по своим интересам.
+
+<br>
+<right><img src="game.jpg" width="200" height="150">
