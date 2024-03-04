@@ -2,34 +2,8 @@
 <html>
 <head>
          <title>Главная страница</title>
-<style>
-a.bot8 {
-   background-color: #FFFFFF;
-    border: 1px solid #CCCCCC;
-    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset;
-    transition: border 0.2s linear 0s, box-shadow 0.2s linear 0s;
-       border-radius: 4px;
-    color: #555555;
-    display:block;
-       width: 120px;
-       margin: 20px auto;
-    font-size: 14px;
-       text-align: center;
-    height: 20px;
-    line-height: 20px;
-    margin-bottom: 10px;
-    padding: 4px 6px;
-    vertical-align: middle;
-       text-decoration: none;
-}
-a.bot8:hover, a.bot8: focus {
-border-color: rgba(82, 168, 236, 0.8);
-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(82, 168, 236, 0.6);
-outline: 0 none;
-}
-</style>
 </head>
-<body bgcolor="#cc6699" vlink="#ffffff">
+<body bgcolor="#FFDEAD">
 <div align="center">
 <h1 style="color: #ffffff;"> Моё Хобби </h1>
 <a class="bot8" href="main.html"> Главная </a>
