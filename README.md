@@ -1,5 +1,4 @@
-# Ksyu.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
          <title>Главная страница</title>
