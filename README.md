@@ -1,7 +1,6 @@
 <html>
 <head>
-<title> Сайт "Хобби"
-</title>
+<title> Сайт "Хобби" </title>
 </head>
 <body bgcolor="#FFDEAD">
 <h1> 
